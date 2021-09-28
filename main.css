@@ -1,0 +1,19 @@
+body {
+    background-color: gainsboro;
+  }
+
+
+.box{
+    background-color: white;
+    padding: 10px 10px 10px;
+}
+
+.sidebr{
+    background-color: white;
+    padding-right: 15px;
+}
+
+.title{
+    font-weight: bold;
+    padding-top: 8px;
+}
